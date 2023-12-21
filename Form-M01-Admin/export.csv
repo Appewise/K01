@@ -1,0 +1,15 @@
+id,type,value
+12,approach_prospect,no
+11,approach_prospect,yes
+4,channel,"Facebook - Reka"
+3,channel,"Facebook - Vape"
+2,channel,"WhatsApp - Reka"
+1,channel,"WhatsApp - Vape"
+14,checked_by,alex
+13,checked_by,steven
+6,platform,Facebook
+5,platform,WhatsApp
+7,status,"Forward to Marketing (WhatsApp)"
+9,status,Skip
+10,status,Spam
+8,status,Supplier
