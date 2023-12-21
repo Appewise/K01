@@ -1,6 +1,6 @@
 <?php
 include '../DB/connection.php';
-
+//try
 // Handle form submission
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['formType']) && $_POST['formType'] === 'enquiry') {
     // Extract the form data
